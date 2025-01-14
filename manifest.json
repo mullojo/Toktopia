@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "Toktopia",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+          "16": "icon512.png",
+          "48": "icon512.png",
+          "128": "icon512.png"
+        }
+    },
+    "side_panel": {
+        "default_path": "sidepanel.html"
+    },
+    "permissions": [
+      "webRequest",
+      "activeTab",
+      "sidePanel",
+      "storage",
+      "unlimitedStorage"
+    ],
+    "host_permissions": [
+       "*://*.tiktok.com/*"
+    ],
+    "background": {
+      "service_worker": "background.js",
+      "type": "module"
+    }
+  }
+  

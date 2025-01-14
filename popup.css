@@ -1,0 +1,7 @@
+.toggle-dot {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  input:checked ~ .toggle-dot {
+    transform: translateX(0.8rem);
+  }
