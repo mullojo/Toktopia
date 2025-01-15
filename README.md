@@ -8,7 +8,7 @@ To use this Chrome Extention from here, first download the .zip File here:
 
 You'll see the file in your **Downloads** 📂 Folder 
 
-Double Click the .zip file to Unpack it 📦
+Click the .zip file to Unpack it 📦 📂
 
 You'll now see a folder called **Toktopia-main** 📂
 
