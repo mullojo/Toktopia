@@ -7,7 +7,7 @@ Toktopia Chrome browser extension, a personal TikTok backup tool.
     * Keep all your videos and upload them anywhere else
     * View your videos in the Chrome side panel, even if you are offline
  
-* Back your TikTok **Following** list 👩‍🦰 📋 to your local browser
+* Back up your TikTok **Following** list 👩‍🦰 📋 to your local browser
     * Keep these contacts safe, making them rediscoverable
 
 ## Step 1: Download and Unpack the Extention
