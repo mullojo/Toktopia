@@ -23,3 +23,6 @@ You can also navigate there with the Chrome menu: "Popup Menu" -> "Extensions" -
 In the upper right, toggle 🔘 the switch that says **Developer Mode**
 
 You'll see some new buttons, click on the **Load unpacked** button 🔘 and select the **Toktopia-main** 📂 Folder 
+
+![Chrome Extension Manager](how-to-dev/chrome-ext-manager.png)
+
