@@ -1,4 +1,6 @@
-# Toktopia
+#  Toktopia
+![Toktopia Logo](how-to-dev/icon-128x128.png)
+
 Toktopia Chrome browser extension, a personal TikTok backup tool.
 
 * Back up all your TikTok **video** 🎥 posts to your local browser
