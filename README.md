@@ -40,13 +40,44 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 ![Chrome Extension Manager](how-to-dev/chrome-ext-manager.png)
 
 
-# Getting Started Using It
+# Getting Started
 
 ![Toktopia Screens](how-to-dev/toktopia-screens.png)
 
+## 🌟 How to Use Toktopia
+
+### Step 1: Log in to TikTok & Go to Your Profile
+1. If you're not already logged into TikTok, log in first.  
+2. Go to your **Profile** page.
+3. Click the Toktopia button on your browser to see the popup loads your info.
+4. If it all looks good, your Profile is backed up ✅
+
+### Step 2: Back Up Your Following List  
+1. Click your **"Following"** tab and scroll through your list to back it up.
+2. Check the progress bar in the Toktopia popup to ensure you’ve captured the entire list.
+3. You can toggle the "My Following List" to **Off** when you are done (it will turn off further backups)
+
+### Step 3: Back Up Your Videos  
+1. Make sure you are on your TikTok **Videos** tab.
+2. Slowly scroll through your video list:  
+   - Hover your mouse over each video to make sure it animates.
+   - Wait for the video to animate before hovering to the next one.
+3. Check the progress bar update as your videos are backed up.  
+   - **Pro Tip:** Longer videos may take more time to back up, so be patient!
+
+### Step 4: View Your Saved Videos  
+- Click the red **"View Saved Videos"** button in the Toktopia popup to open the side panel and see your backed-up content.
+- You can click the menue button on each video if you want to save individuals video to a folder on your computer.
+
+### Important Notes:  
+- **Local Storage:** Your data is stored locally in your browser. It’s safe as long as you don’t clear your browser cache or remove the Toktopia extension. 
+- **Privacy First:** All backups are private and remain entirely on your device.
+
+# Why Toktopia is Great!
+
 ## 🌟 Features  
 - **💾 Stay Prepared:** Keep your TikTok content safe in case of bans or account changes.  
-- **🎁 100% Free:** No ads, no paywalls—forever free.  
+- **🎁 100% Always Free:** No ads, no paywalls—forever free.  
 - **🌎 Open Source:** Transparent and community-driven. View the code, suggest changes, or remix it on your own.  
 - **🔐 Privacy First:** Your data stays on your device—nothing is sent to the cloud or any external servers.  
 
