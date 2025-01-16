@@ -40,10 +40,7 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 ![Chrome Extension Manager](how-to-dev/chrome-ext-manager.png)
 
 
-
----
-
- 
+# Getting Started Using It
 
 ## 🌟 Features  
 - **💾 Stay Prepared:** Keep your TikTok content safe in case of bans or account changes.  
@@ -66,6 +63,3 @@ Toktopia uses **IndexedDB**, a secure and local database in your browser.
 - **Local-First Architecture:** Built with IndexedDB to ensure privacy and simplicity.  
 - **No External Dependencies:** Everything runs locally, so there’s no need to worry about data leaks or third-party tracking.  
 
----
-
-Let me know if you'd like to expand any sections or add installation instructions for non-technical users! 
