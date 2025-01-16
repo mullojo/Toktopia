@@ -63,5 +63,5 @@ Toktopia uses **IndexedDB**, a secure and local database in your browser.
 ## 💻 For Developers  
 - **Open Source:** Contribute to Toktopia, suggest improvements, or fork the repo to build your own version.  
 - **Local-First Architecture:** Built with IndexedDB to ensure privacy and simplicity.  
-- **No External Dependencies:** Everything runs locally, so there’s no need to worry about data leaks or third-party tracking.  
+- **No External Network Dependencies:** Everything runs locally, so there’s no need to worry about external servers. 
 
