@@ -40,7 +40,7 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 ![Chrome Extension Manager](how-to-dev/chrome-ext-manager.png)
 
 
-# Getting Started
+# Backing Up
 
 ![Toktopia Screens](how-to-dev/toktopia-screens.png)
 
@@ -67,7 +67,7 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 
 ### Step 4: View Your Saved Videos  
 - Click the red **"View Saved Videos"** button in the Toktopia popup to open the side panel and see your backed-up content.
-- You can click the menue button on each video if you want to save individuals video to a folder on your computer.
+- Click the menu button on each video if you want to save individual videos to a folder on your computer.
 
 ### Important Notes:  
 - **Local Storage:** Your data is stored locally in your browser. It’s safe as long as you don’t clear your browser cache or remove the Toktopia extension. 
