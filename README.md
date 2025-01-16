@@ -8,7 +8,7 @@ Toktopia is a **free** and **open-source** Chrome extension that helps you back 
     * View your videos in the Chrome side panel, even if you are offline
  
 * Back up your TikTok **Following** list 👩‍🦰 📋 to your local browser
-    * Keep these contacts safe, making them rediscoverable
+    * Keep these contacts safe, making them capable of being rediscovered in other networks
 
 ## Step 1: Download and Unpack the Extention
 
