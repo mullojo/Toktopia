@@ -42,6 +42,8 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 
 # Getting Started Using It
 
+![Toktopia Screens](how-to-dev/toktopia-screens.png)
+
 ## 🌟 Features  
 - **💾 Stay Prepared:** Keep your TikTok content safe in case of bans or account changes.  
 - **🎁 100% Free:** No ads, no paywalls—forever free.  
