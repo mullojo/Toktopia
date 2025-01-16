@@ -72,6 +72,7 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 ### Important Notes:  
 - **Local Storage:** Your data is stored locally in your browser. It’s safe as long as you don’t clear your browser cache or remove the Toktopia extension. 
 - **Privacy First:** All backups are private and remain entirely on your device.
+- **Future Updates:** We're planning to release future features to offload all your backed up data to your hard drive or to your private cloud providers
 
 # Why Toktopia is Great!
 
