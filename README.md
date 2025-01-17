@@ -13,7 +13,7 @@ Toktopia is a **free** and **open-source** Chrome extension that helps you back 
 ## Step 1: Download and Unpack the Extention
 
 * To use this Chrome Extention from here, first download the .zip File here:
-👉 [Download .zip File](https://github.com/mullojo/Toktopia/archive/refs/heads/main.zip) 💾 
+👉 [Download .zip File](https://raw.githubusercontent.com/mullojo/Toktopia/main/Toktopia-main.zip) 💾 
 
 * You'll see the file in your **Downloads** 📂 folder
 
