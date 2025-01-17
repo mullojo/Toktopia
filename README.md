@@ -49,20 +49,21 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 ### Step 1: Log in to TikTok & Go to Your Profile
 1. If you're not already logged into TikTok, log in first.  
 2. Go to your **Profile** page.
-3. Click the Toktopia button on your browser to see the popup loads your info.
-4. If it all looks good, your Profile is backed up ✅
+3. Click the Toktopia icon in the browser to see the popup with your info.
+4. If your profile info looks good, your Profile data is backed up. ✅
 
 ### Step 2: Back Up Your Following List  
 1. Click your **"Following"** tab and scroll through your list to back it up.
 2. Check the progress bar in the Toktopia popup to ensure you’ve captured the entire list.
-3. You can toggle the "My Following List" to **Off** when you are done (it will turn off further backups)
+3. You can toggle the **My Following List** to **Off** when you are done (it will turn off further backups).
 
 ### Step 3: Back Up Your Videos  
-1. Make sure you are on your TikTok **Videos** tab.
+1. Make sure you're on your TikTok **Videos** tab.
 2. Slowly scroll through your video list:  
    - Hover your mouse over each video to make sure it animates.
    - Wait for the video to animate before hovering to the next one.
-3. Check the progress bar update as your videos are backed up.  
+3. Check the progress bar update as your videos are backed up.
+   - When all your videos are backed up, toggle the **My Videos** to **Off**, it will turn off further backups. 
    - **Pro Tip:** Longer videos may take more time to back up, so be patient!
 
 ### Step 4: View Your Saved Videos  
@@ -72,7 +73,7 @@ You can also navigate there with the Chrome menu: "Menu" -> "Extensions" -> "Man
 ### Important Notes:  
 - **Local Storage:** Your data is stored locally in your browser. It’s safe as long as you don’t clear your browser cache or remove the Toktopia extension. 
 - **Privacy First:** All backups are private and remain entirely on your device.
-- **Future Updates:** We're planning to release future features to offload all your backed up data to your hard drive or to your private cloud providers
+- **Future Updates:** We're planning to release future features to offload all your backed up data to your hard drive or to your private cloud providers.
 
 # Why Toktopia is Great!
 
